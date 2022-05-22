@@ -1,5 +1,7 @@
 # Baseball Tournament Manager
 
+Console Application (C#) for Creating/Managing Local Baseball Tournaments
+
 **Author:** Jakob Wood
 
 ## Features and Usage
