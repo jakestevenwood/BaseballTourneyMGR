@@ -1,4 +1,4 @@
-# Baseball Tournement Manager
+# Baseball Tournament Manager
 
 **Author:** Jakob Wood
 
