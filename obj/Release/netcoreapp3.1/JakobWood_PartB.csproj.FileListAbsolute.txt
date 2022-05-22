@@ -1,0 +1,13 @@
+C:\Users\Jakob\Desktop\JakobWood - Skills Ontario Task\Part B\JakobWood_PartB\bin\Release\netcoreapp3.1\JakobWood_PartB.exe
+C:\Users\Jakob\Desktop\JakobWood - Skills Ontario Task\Part B\JakobWood_PartB\bin\Release\netcoreapp3.1\JakobWood_PartB.deps.json
+C:\Users\Jakob\Desktop\JakobWood - Skills Ontario Task\Part B\JakobWood_PartB\bin\Release\netcoreapp3.1\JakobWood_PartB.runtimeconfig.json
+C:\Users\Jakob\Desktop\JakobWood - Skills Ontario Task\Part B\JakobWood_PartB\bin\Release\netcoreapp3.1\JakobWood_PartB.runtimeconfig.dev.json
+C:\Users\Jakob\Desktop\JakobWood - Skills Ontario Task\Part B\JakobWood_PartB\bin\Release\netcoreapp3.1\JakobWood_PartB.dll
+C:\Users\Jakob\Desktop\JakobWood - Skills Ontario Task\Part B\JakobWood_PartB\bin\Release\netcoreapp3.1\JakobWood_PartB.pdb
+C:\Users\Jakob\Desktop\JakobWood - Skills Ontario Task\Part B\JakobWood_PartB\obj\Release\netcoreapp3.1\JakobWood_PartB.csprojAssemblyReference.cache
+C:\Users\Jakob\Desktop\JakobWood - Skills Ontario Task\Part B\JakobWood_PartB\obj\Release\netcoreapp3.1\JakobWood_PartB.AssemblyInfoInputs.cache
+C:\Users\Jakob\Desktop\JakobWood - Skills Ontario Task\Part B\JakobWood_PartB\obj\Release\netcoreapp3.1\JakobWood_PartB.AssemblyInfo.cs
+C:\Users\Jakob\Desktop\JakobWood - Skills Ontario Task\Part B\JakobWood_PartB\obj\Release\netcoreapp3.1\JakobWood_PartB.csproj.CoreCompileInputs.cache
+C:\Users\Jakob\Desktop\JakobWood - Skills Ontario Task\Part B\JakobWood_PartB\obj\Release\netcoreapp3.1\JakobWood_PartB.dll
+C:\Users\Jakob\Desktop\JakobWood - Skills Ontario Task\Part B\JakobWood_PartB\obj\Release\netcoreapp3.1\JakobWood_PartB.pdb
+C:\Users\Jakob\Desktop\JakobWood - Skills Ontario Task\Part B\JakobWood_PartB\obj\Release\netcoreapp3.1\JakobWood_PartB.genruntimeconfig.cache

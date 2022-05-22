@@ -1,0 +1,5 @@
+C:\Users\Jakob\Desktop\JakobWood - Skills Ontario Task\Part B\JakobWood_PartB\JakobWood_PartB.exe
+C:\Users\Jakob\Desktop\JakobWood - Skills Ontario Task\Part B\JakobWood_PartB\JakobWood_PartB.dll
+C:\Users\Jakob\Desktop\JakobWood - Skills Ontario Task\Part B\JakobWood_PartB\JakobWood_PartB.deps.json
+C:\Users\Jakob\Desktop\JakobWood - Skills Ontario Task\Part B\JakobWood_PartB\JakobWood_PartB.runtimeconfig.json
+C:\Users\Jakob\Desktop\JakobWood - Skills Ontario Task\Part B\JakobWood_PartB\JakobWood_PartB.pdb
